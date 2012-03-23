@@ -5,3 +5,6 @@ $("#myTable").shiftSelect(function() {
 });
 
 ```
+
+
+The ```row_selected``` class is added to the selected rows
